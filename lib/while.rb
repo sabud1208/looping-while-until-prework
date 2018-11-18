@@ -1,6 +1,6 @@
 levitation_force = 0
 def using_while
-	levitation_force 
+	while 
 
 	#your code here
 end
