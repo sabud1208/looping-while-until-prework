@@ -1,4 +1,4 @@
-levitation_force = 6
+
 def method_name
 
 end
