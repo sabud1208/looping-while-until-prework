@@ -1,5 +1,5 @@
 def using_while
-	CZ
+	levitation_force = 6
 
 	#your code here
 end
